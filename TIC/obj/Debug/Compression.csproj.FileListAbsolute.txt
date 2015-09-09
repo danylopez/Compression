@@ -1,0 +1,12 @@
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\bin\Debug\Compression.exe.config
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.exe
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.pdb
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\bin\Debug\Compression.exe
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\bin\Debug\Compression.pdb
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.Properties.Resources.resources
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.csproj.GenerateResource.Cache
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+C:\Users\danny\Desktop\TESIS\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.Form1.resources
+E:\Escritorio\Tesina\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\bin\Debug\Compression.exe.config
+E:\Escritorio\Tesina\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.exe
+E:\Escritorio\Tesina\TESIS MEMORIA\Projects\NOVO\Tesina\TIC\obj\Debug\Compression.pdb
